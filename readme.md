@@ -4,3 +4,6 @@ IPv6無効化はしたくないが、IPv4を優先的にしたいときに使え
  
 ## 使い方
 callPrioritizeIPv4.batを右クリックして管理者として実行。  
+
+## 設定を戻したいとき
+ResetPrioritize.batを右クリックして管理者として実行。  
